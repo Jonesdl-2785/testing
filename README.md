@@ -49,9 +49,17 @@ menu toggles on and off when clicked
 Initial Entries
 a single .entry element is in the .feed container after work completes
 New Feed Selection
-new feed is loaded by the loadFeed function, the content changes               
+new feed is loaded by the loadFeed function, the content changes    
+
+#### Issues
+N/A
         
 #### Udacity Resources
 #### [course](https://www.udacity.com/course/ud549)
 #### Download the [required project assets](http://github.com/udacity/frontend-nanodegree-feedreader)
-
+#### Resources
+www.stackoverflow.com
+Matthew Crawford - Feedreader Walkthrough
+Jasmine.io Documentation
+MDN
+W3schools
